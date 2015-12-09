@@ -1,7 +1,7 @@
 ### dev.system
 
-#### summary
-
+#### learning
+* Computer Systems - A programmer's Perspective
 
 #### reference
 * reading :
