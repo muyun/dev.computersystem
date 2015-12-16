@@ -6,6 +6,7 @@
 #### reference
 * reading :
     - [Computer Systems: A programmer's Perspective](http://csapp.cs.cmu.edu/public/code.html)
+    - [The Hardware/Software Interface](https://class.coursera.org/hwswinterface-002/wiki/syllabus)
     - [harvard - CS61-Systems Programming and Machine Organization](http://cs61.seas.harvard.edu/wiki/2014/Resources)
     - [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
     - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
