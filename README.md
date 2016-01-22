@@ -2,6 +2,7 @@
 
 #### learning
 * Computer Systems - A programmer's Perspective
+* [Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)
 
 #### reference
 * reading :
