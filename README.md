@@ -8,12 +8,13 @@
 * reading :
     - [Computer Systems: A programmer's Perspective](http://csapp.cs.cmu.edu/public/code.html)
     - [The Hardware/Software Interface](https://class.coursera.org/hwswinterface-002/wiki/syllabus)
-    - [harvard - CS61-Systems Programming and Machine Organization](http://cs61.seas.harvard.edu/wiki/2014/Resources)
     - [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
+    - [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
     - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
     - [Georagia - Advanced Operating Systems](https://www.udacity.com/course/viewer#!/c-ud189/l-3652509443)
     - [Georagia - High Performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
-    
+    - [harvard - CS61-Systems Programming and Machine Organization](http://cs61.seas.harvard.edu/wiki/2014/Resources)
+
 * Courses :
     - [CMU - distributed systems] (http://www.andrew.cmu.edu/course/15-440-f14/index/lecture_index.html)
     - [MIT - 2015- 6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2015/general.html)
