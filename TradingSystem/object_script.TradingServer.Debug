@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\S_Server.o
+./debug\S_Socket.o
+./debug\Logic.o
+./debug\tradingserver_plugin_import.o
+./debug\moc_mainwindow.o
+./debug\moc_S_Server.o
+./debug\moc_S_Socket.o
+./debug\moc_Logic.o
+);

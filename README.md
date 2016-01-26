@@ -1,7 +1,8 @@
-### dev.system
+### dev.computersystem
 
 #### learning
 * Computer Systems - A programmer's Perspective
+* [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
 * [Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)
 
 #### reference
@@ -26,7 +27,7 @@
     - [Washington-Spring2013](http://courses.cs.washington.edu/courses/csep552/13sp/)
     - [Berkeley- Advanced Topics in Computer Systems](http://www.cs.berkeley.edu/~brewer/cs262/)
     - [Principles of Distributed Computing](http://dcg.ethz.ch/lectures/podc_allstars/)
-   
+
 * Paper Trail :
     - [Distributed systems theory for the distributed systems engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)
     - [A Distributed Systems Reading List](http://dancres.github.io/Pages/)
@@ -35,6 +36,3 @@
     - [Readings in distributed systems] (http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
     - [Distributed Systems Syllabus](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
     - [Readings in DIstributed Systems](http://henryr.github.io/distributed-systems-readings/)
-
-
-  

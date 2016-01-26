@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\C_Socket.o
+./release\Logic.o
+./release\C_Server.o
+./release\dialog.o
+./release\EntriesModel.o
+./release\tradingclient_plugin_import.o
+./release\moc_mainwindow.o
+./release\moc_C_Socket.o
+./release\moc_Logic.o
+./release\moc_C_Server.o
+./release\moc_dialog.o
+./release\moc_EntriesModel.o
+);

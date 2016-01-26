@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\C_Socket.o
+./debug\Logic.o
+./debug\C_Server.o
+./debug\dialog.o
+./debug\EntriesModel.o
+./debug\tradingclient_plugin_import.o
+./debug\moc_mainwindow.o
+./debug\moc_C_Socket.o
+./debug\moc_Logic.o
+./debug\moc_C_Server.o
+./debug\moc_dialog.o
+./debug\moc_EntriesModel.o
+);

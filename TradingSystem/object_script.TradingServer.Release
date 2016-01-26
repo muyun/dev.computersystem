@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\S_Server.o
+./release\S_Socket.o
+./release\Logic.o
+./release\tradingserver_plugin_import.o
+./release\moc_mainwindow.o
+./release\moc_S_Server.o
+./release\moc_S_Socket.o
+./release\moc_Logic.o
+);
