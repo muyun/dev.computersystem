@@ -2,8 +2,8 @@
 
 #### learning
 * Computer Systems - A programmer's Perspective
-* [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
 * [CS 190: Software Design Studio (Spring 2016)](http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php)
+* [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
 * [Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)
 * [Sp2016 Distributed Systems] (http://nil.csail.mit.edu/6.824/2016/)
 * [Sp2016 Computer Systems Engineering](http://web.mit.edu/6.033/www/)
