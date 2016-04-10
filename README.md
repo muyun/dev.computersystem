@@ -1,7 +1,7 @@
 ### dev.computersystem
 
 #### learning
-* Computer Systems - A programmer's Perspective
+* [Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)
 * [CS 190: Software Design Studio (Spring 2016)](http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php)
 * [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
 * [Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)
