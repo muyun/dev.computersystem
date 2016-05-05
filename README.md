@@ -2,6 +2,7 @@
 
 #### learning
 * [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/index.html)
+* [CMSC 22001: Software Construction](http://people.cs.uchicago.edu/~shanlu/teaching/22001_sp16/index.html#overview)
 * [Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)
 * [CS 190: Software Design Studio (Spring 2016)](http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php)
 * [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
