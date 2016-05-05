@@ -1,6 +1,7 @@
-#### Focuse on the software constructure
+### Focuse on the software constructure
 
-#### learning
+#### todo
+#### reference
 * [sp2011-Elements of Software Construction](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/)
 * [Sp2016-6.005: Software Construction](http://web.mit.edu/6.005/www/sp16/)
 * [solution-software construction](https://github.com/claytonm/6005)
