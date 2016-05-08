@@ -12,3 +12,5 @@
 * [CMSC 22001: Software Construction](http://people.cs.uchicago.edu/~shanlu/teaching/22001_sp16/index.html#overview)
 * [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/index.html)
 * [Advanced Operating Systems on Udacity](https://www.udacity.com/wiki/ud189)
+* <del>[Software Development Process](https://www.udacity.com/courses/ud805) </del> 
+* <del>[Software Architecture and Design](https://www.udacity.com/wiki/saad/schedule)</del> 
