@@ -1,15 +1,5 @@
 ### dev.computersystem
 
-#### learning
-* [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/index.html)
-* [CMSC 22001: Software Construction](http://people.cs.uchicago.edu/~shanlu/teaching/22001_sp16/index.html#overview)
-* [Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)
-* [CS 190: Software Design Studio (Spring 2016)](http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php)
-* [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
-* [Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)
-* [Sp2016 Distributed Systems] (http://nil.csail.mit.edu/6.824/2016/)
-* [Sp2016 Computer Systems Engineering](http://web.mit.edu/6.033/www/)
-* ~~[OS engineering] (https://pdos.csail.mit.edu/6.828/2014/schedule.html)~~
 
 #### reference
 * reading :
@@ -23,6 +13,16 @@
     - [Georagia - High Performance Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007)
     - [harvard - CS61-Systems Programming and Machine Organization](http://cs61.seas.harvard.edu/wiki/2014/Resources)
      
+    - [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/15-214/2016-spring/index.html)
+    - [CMSC 22001: Software Construction](http://people.cs.uchicago.edu/~shanlu/teaching/22001_sp16/index.html#overview)
+    - [Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)
+    - [CS 190: Software Design Studio (Spring 2016)](http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php)
+    - [CMU - Operating System Design and Implementation] (https://www.cs.cmu.edu/~410/)
+    - [Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)
+    - [Sp2016 Distributed Systems] (http://nil.csail.mit.edu/6.824/2016/)
+    - [Sp2016 Computer Systems Engineering](http://web.mit.edu/6.033/www/)
+    - ~~[OS engineering] (https://pdos.csail.mit.edu/6.828/2014/schedule.html)~~
+
 * Courses :
     - [CMU - distributed systems] (http://www.andrew.cmu.edu/course/15-440-f14/index/lecture_index.html)
     - [MIT - 2015- 6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2015/general.html)
