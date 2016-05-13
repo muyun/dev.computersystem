@@ -2,7 +2,7 @@
 
 
 #### reference
-* reading :
+* re :
     - [Computer Systems: A programmer's Perspective](http://csapp.cs.cmu.edu/public/code.html)
     - [The Hardware/Software Interface](https://class.coursera.org/hwswinterface-002/wiki/syllabus)
     - [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
