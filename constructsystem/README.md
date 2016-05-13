@@ -1,6 +1,8 @@
 ### Focuse on the software constructure
 
 #### todo
+* src
+
 #### reference
 * [Sp2016-6.005: Software Construction](http://web.mit.edu/6.005/www/sp16/)
 * [solution-software construction](https://github.com/claytonm/6005)
