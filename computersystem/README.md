@@ -4,6 +4,7 @@
 * [Note - A review of computer system](http://muyun.github.io/technology/system/summary/a-review-of-computer-system.html)
 
 #### reference
+* [Berkeley2016-CS262a: Advanced Topics in Computer Systems](https://amplab.github.io/cs262a-fall2016/)
 * [Introduction to Computer Systems](https://www.cs.cmu.edu/~213/index.html)
 * [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/adoptions.html)
 * [Advanced Topics in Operating Systems](https://web.stanford.edu/class/cs240/about/)
