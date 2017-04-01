@@ -1,7 +1,7 @@
 #### ICS
 
 #### note
-* [Note - A review of computer system](http://muyun.github.io/technology/system/summary/a-review-of-computer-system.html)
+* [Note - A review of computer system](http://muyun.github.io/technology/system/a-review-of-computer-system.html)
 
 #### reference
 * [Berkeley2016-CS262a: Advanced Topics in Computer Systems](https://amplab.github.io/cs262a-fall2016/)
