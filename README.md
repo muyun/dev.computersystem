@@ -4,7 +4,6 @@
 * src
 
 #### reference
-* [Berkeley2016-CS262a: Advanced Topics in Computer Systems](https://amplab.github.io/cs262a-fall2016/)
 
 * 
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x#!)
